@@ -26,7 +26,7 @@ program
   .option('-n, --required <n>', 'Required number of signatures', parseInt)
   .option('-k, --keys <items>', 'master private keys, separated by , ', list)
   .option('-a, --amount <n>', 'Optional, amount to transfer, in Satoshis. If not provided, will wipe all funds', parseInt)
-  .option('-f, --fee [n]', 'Optional, fee in BTC (default 0.0001 BTC), only if amount is not provided', parseFloat)
+  .option('-f, --fee [n]', 'Optional, fee in BLK (default 0.0001 BLK), only if amount is not provided', parseFloat)
   .parse(process.argv);
 
 

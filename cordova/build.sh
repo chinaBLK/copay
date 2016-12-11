@@ -157,8 +157,8 @@ if [ ! -d $PROJECT ]; then
 
   ## Fix plugin android-fingerprint
   rm -rf $PROJECT/platforms/android/res/values-es
-  cordova plugin add cordova-plugin-android-fingerprint-auth
-  checkOK
+  ## cordova plugin add cordova-plugin-android-fingerprint-auth
+  ## checkOK
 
   cordova plugin add cordova-plugin-screen-orientation
   checkOK

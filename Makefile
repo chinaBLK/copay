@@ -27,7 +27,7 @@ cordova-base:
 
 # ios:  cordova-base
 # 	make -C cordova ios
-# 	open cordova/project/platforms/ios/Copay
+# 	open cordova/project/platforms/ios/Payblk
 #
 # android: cordova-base
 # 	make -C cordova run-android
@@ -48,12 +48,12 @@ wp8-debug:
 ios-prod:
 	cordova/build.sh IOS --clear
 	cd cordova/project && cordova build ios
-	open cordova/project/platforms/ios/Copay.xcodeproj
+	open cordova/project/platforms/ios/Payblk.xcodeproj
 
 ios-debug:
 	cordova/build.sh IOS --dbgjs
 	cd cordova/project && cordova build ios
-	open cordova/project/platforms/ios/Copay.xcodeproj
+	open cordova/project/platforms/ios/Payblk.xcodeproj
 
 android-prod:
 	cordova/build.sh ANDROID --clear

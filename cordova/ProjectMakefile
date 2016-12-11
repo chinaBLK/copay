@@ -14,7 +14,7 @@ android:
 	cordova platforms add android
 
 wp8:
-	cordova platforms add wp8 
+	cordova platforms add windows 
 
 ios:
 	cordova platforms add ios
