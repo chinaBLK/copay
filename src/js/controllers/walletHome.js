@@ -242,7 +242,7 @@ angular.module('copayApp.controllers').controller('walletHomeController', functi
 
   this.shareAddress = function(addr) {
     if (isCordova) {
-      window.plugins.socialsharing.share('bitcoin:' + addr, null, null, null);
+      window.plugins.socialsharing.share('blackcoin:' + addr, null, null, null);
     }
   };
 
