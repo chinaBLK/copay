@@ -56,15 +56,15 @@ angular.module('copayApp.services').factory('openURLService', function($rootScop
 
       // This event is sent to an existent instance of Copay (only for standalone apps)
       gui.App.on('open', function(pathData) {
-        if (pathData.indexOf('bitcoin:') != -1) {
-          $log.debug('Bitcoin URL found');
+        if (pathData.indexOf('blackcoin:') != -1) {
+          $log.debug('Blackcoin URL found');
           handleOpenURL({
-            url: pathData.substring(pathData.indexOf('bitcoin:'))
+            url: pathData.substring(pathData.indexOf('blackcoin:'))
           });
-        } else if (pathData.indexOf('copay:') != -1) {
-          $log.debug('Copay URL found');
+        } else if (pathData.indexOf('payblk:') != -1) {
+          $log.debug('Payblk URL found');
           handleOpenURL({
-            url: pathData.substring(pathData.indexOf('copay:'))
+            url: pathData.substring(pathData.indexOf('payblk:'))
           });
         }
       });
@@ -82,8 +82,8 @@ angular.module('copayApp.services').factory('openURLService', function($rootScop
 
       if (navigator.registerProtocolHandler) {
         $log.debug('Registering Browser handlers base:' + base);
-        navigator.registerProtocolHandler('bitcoin', url, 'Copay Bitcoin Handler');
-        navigator.registerProtocolHandler('web+copay', url, 'Copay Wallet Handler');
+        navigator.registerProtocolHandler('blackcoin', url, 'Payblk Blackcoin Handler');
+        navigator.registerProtocolHandler('web+copay', url, 'Payblk Wallet Handler');
       }
     }
   };

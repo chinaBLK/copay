@@ -47,8 +47,8 @@ angular.module('copayApp.services').factory('incomingData', function($log, $stat
     }
 
     // data extensions for Payment Protocol with non-backwards-compatible request
-    if ((/^bitcoin:\?r=[\w+]/).exec(data)) {
-      data = decodeURIComponent(data.replace('bitcoin:?r=', ''));
+    if ((/^blackcoin:\?r=[\w+]/).exec(data)) {
+      data = decodeURIComponent(data.replace('blackcoin:?r=', ''));
       $state.go('tabs.send', {}, {
         'reload': true,
         'notify': $state.current.name == 'tabs.send' ? false : true
