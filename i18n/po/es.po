@@ -26,11 +26,11 @@ msgstr "(Posible doble gasto)"
 
 #: www/views/modals/txp-details.html:154
 msgid "* A payment proposal can be deleted if 1) you are the creator, and no other copayer has signed, or 2) 24 hours have passed since the proposal was created."
-msgstr "* Una propuesta de pago puede ser eliminada si 1) Tú eres el creador, y ningún otro copayer la haya firmado, o 2) hayan transcurrido 24 horas desde la creación de la propuesta."
+msgstr "* Una propuesta de pago puede ser eliminada si 1) Tú eres el creador, y ningún otro payblker la haya firmado, o 2) hayan transcurrido 24 horas desde la creación de la propuesta."
 
 #: www/views/feedback/rateApp.html:7
 msgid "5-star ratings help us get BitPay into more hands, and more users means more resources can be committed to the app!"
-msgstr "Una calificación de 5 estrellas nos ayuda a que BitPay sea más utilizado, mientras más usuarios más son las razones para seguir comprometidos con esta aplicación!"
+msgstr "Una calificación de 5 estrellas nos ayuda a que ObsidianCVT sea más utilizado, mientras más usuarios más son las razones para seguir comprometidos con esta aplicación!"
 
 #: src/js/controllers/confirm.js:466
 msgid "A SMS containing a confirmation code was sent to your phone."
@@ -88,11 +88,11 @@ msgstr "Agregar Cuenta"
 
 #: src/js/controllers/bitpayCardIntro.js:30
 msgid "Add BitPay Card Account?"
-msgstr "¿Agregar cuenta de tarjeta BitPay?"
+msgstr "¿Agregar cuenta de tarjeta ObsidianCVT?"
 
 #: www/views/tab-home.html:156
 msgid "Add BitPay Visa&reg; Card"
-msgstr "Añadir tarjeta BitPay Visa&reg;"
+msgstr "Añadir tarjeta ObsidianCVT Visa&reg;"
 
 #: www/views/addressbook.add.html:4
 #: www/views/addressbook.html:22
@@ -173,7 +173,7 @@ msgstr "Todo el balance de tu billetera puede que no esté disponible para su us
 
 #: www/views/tab-receive.html:33
 msgid "All signing devices must be added to this multisig wallet before bitcoin addresses can be created."
-msgstr "Todos los dispositivos de los firmantes deben ser agregados a esta billetera compartido antes de que se puedan crear direcciones bitcoin."
+msgstr "Todos los dispositivos de los firmantes deben ser agregados a esta billetera compartido antes de que se puedan crear direcciones blackcoin."
 
 #: www/views/tab-scan.html:21
 msgid "Allow Camera Access"
@@ -217,7 +217,7 @@ msgstr "Actualización disponible. Por seguridad, actualiza a la versión más r
 
 #: www/views/backupWarning.html:14
 msgid "Anyone with your backup phrase can access or spend your bitcoin."
-msgstr "Cualquier persona con tu copia de seguridad puede gastar tus bitcoins."
+msgstr "Cualquier persona con tu copia de seguridad puede gastar tus blackcoins."
 
 #: www/views/backupWarning.html:10
 msgid "Are you being watched?"
@@ -245,7 +245,7 @@ msgstr "¿Estás seguro de omitirla?"
 
 #: src/js/controllers/preferencesBitpayCard.js:7
 msgid "Are you sure you would like to remove your BitPay Card account from this device?"
-msgstr "¿Estás seguro de eliminar la cuenta de tu tarjeta BitPay de éste dispositivo?"
+msgstr "¿Estás seguro de eliminar la cuenta de tu tarjeta ObsidianCVT de éste dispositivo?"
 
 #: www/views/includes/walletInfo.html:3
 msgid "Auditable"
@@ -309,44 +309,44 @@ msgstr "Asegúrate de guardar la frase de recuperación en un lugar seguro. Si s
 
 #: src/js/controllers/tab-settings.js:52
 msgid "BitPay Help Center"
-msgstr "Centro de Ayuda de BitPay"
+msgstr "Centro de Ayuda de ObsidianCVT"
 
 #: www/views/addressbook.add.html:38
 msgid "Bitcoin Address"
-msgstr "Dirección Bitcoin"
+msgstr "Dirección Blackcoin"
 
 #: www/views/tab-settings.html:13
 msgid "Bitcoin Exchanges"
-msgstr "Bitcoin Exchanges"
+msgstr "Blackcoin Exchanges"
 
 #: www/views/preferencesFee.html:4
 #: www/views/tab-settings.html:92
 msgid "Bitcoin Network Fee Policy"
-msgstr "Política de Comisión de la Red Bitcoin"
+msgstr "Política de Comisión de la Red Blackcoin"
 
 #: www/views/paymentUri.html:10
 msgid "Bitcoin URI is NOT valid!"
-msgstr "¡Bitcoin URI no es válida!"
+msgstr "¡Blackcoin URI no es válida!"
 
 #: www/views/tab-settings.html:70
 msgid "Bitcoin Unit"
-msgstr "Unidad de Bitcoin"
+msgstr "Unidad de Blackcoin"
 
 #: www/views/onboarding/tour.html:26
 msgid "Bitcoin is a currency."
-msgstr "Bitcoin es una moneda."
+msgstr "Blackcoin es una moneda."
 
 #: www/views/onboarding/disclaimer.html:15
 msgid "Bitcoin is different &ndash; it cannot be safely held with a bank or web service."
-msgstr "Bitcoin es diferente &ndash; no se puede resguardar con ningún servicio web o banco."
+msgstr "Blackcoin es diferente &ndash; no se puede resguardar con ningún servicio web o banco."
 
 #: www/views/onboarding/tour.html:13
 msgid "Bitcoin is secure,<br>digital money."
-msgstr "Bitcoin es seguro,<br> dinero digital."
+msgstr "Blackcoin es seguro,<br> dinero digital."
 
 #: www/views/preferencesFee.html:11
 msgid "Bitcoin transactions include a fee collected by miners on the network."
-msgstr "Las transacciones de bitcoins incluyen una comisión recogida por los mineros de la red."
+msgstr "Las transacciones de blackcoins incluyen una comisión recogida por los mineros de la red."
 
 #: www/views/modals/txp-details.html:36
 msgid "Broadcast Payment"
@@ -367,11 +367,11 @@ msgstr "Navegador no soportado"
 
 #: www/views/tab-home.html:119
 msgid "Buy &amp; Sell Bitcoin"
-msgstr "Comprar &amp; Vender Bitcoin"
+msgstr "Comprar &amp; Vender Blackcoin"
 
 #: www/views/tab-send.html:15
 msgid "Buy Bitcoin"
-msgstr "Comprar Bitcoin"
+msgstr "Comprar Blackcoin"
 
 #: www/views/tab-home.html:170
 msgid "Buy an Amazon Gift Card"
@@ -383,11 +383,11 @@ msgstr "Compra y venta"
 
 #: www/views/tab-home.html:163
 msgid "Buy or Sell Bitcoin"
-msgstr "Comprar y vender Bitcoin"
+msgstr "Comprar y vender Blackcoin"
 
 #: src/js/services/onGoingProcess.js:41
 msgid "Buying Bitcoin..."
-msgstr "Comprando Bitcoins..."
+msgstr "Comprando Blackcoins..."
 
 #: src/js/services/onGoingProcess.js:11
 msgid "Calculating fee"
@@ -485,7 +485,7 @@ msgstr "Confirmando"
 
 #: www/views/bitpayCardIntro.html:37
 msgid "Connect my BitPay Card"
-msgstr "Conecte mi tarjeta de BitPay"
+msgstr "Conecte mi tarjeta de ObsidianCVT"
 
 #: src/js/services/onGoingProcess.js:12
 msgid "Connecting to Coinbase..."
@@ -522,15 +522,15 @@ msgstr "Ya votaste en esta propuesta de gasto"
 
 #: src/js/services/bwcError.js:107
 msgid "Copayer data mismatch"
-msgstr "Discrepancia en los datos del Copayer"
+msgstr "Discrepancia en los datos del Payblker"
 
 #: www/views/includes/walletActivity.html:2
 msgid "Copayer joined"
-msgstr "Copayer unido"
+msgstr "Payblker unido"
 
 #: www/views/preferencesInformation.html:81
 msgid "Copayer {{$index}}"
-msgstr "Copayer {{$index}}"
+msgstr "Payblker {{$index}}"
 
 #: src/js/controllers/copayers.js:64
 #: src/js/controllers/export.js:177
@@ -601,7 +601,7 @@ msgstr "No se pudo obtener comisión dinámica: {{feeLevel}}"
 
 #: src/js/controllers/confirm.js:664
 msgid "Could not get the destination bitcoin address"
-msgstr "No se pudo obtener la dirección bitcoin destino"
+msgstr "No se pudo obtener la dirección blackcoin destino"
 
 #: src/js/controllers/bitpayCard.js:68
 #: src/js/controllers/glidera.js:100
@@ -782,7 +782,7 @@ msgstr "Habilitar integración con Amazon"
 
 #: www/views/advancedSettings.html:13
 msgid "Enable BitPay Card Integration"
-msgstr "Habilitar integración con tarjeta BitPay"
+msgstr "Habilitar integración con tarjeta ObsidianCVT"
 
 #: www/views/advancedSettings.html:21
 msgid "Enable Glidera Service"
@@ -819,7 +819,7 @@ msgstr "Ingrese contraseña para pagos"
 
 #: src/js/controllers/bitpayCardIntro.js:6
 msgid "Enter Two Factor for BitPay Card"
-msgstr "Ingrese Two Factor para BitPay Card"
+msgstr "Ingrese Two Factor para ObsidianCVT Card"
 
 #: src/js/services/walletService.js:824
 msgid "Enter new spending password"
@@ -1079,7 +1079,7 @@ msgstr "Consigue efectivo local dondequiera que vayas, desde cualquier ATM Visa<
 
 #: www/views/onboarding/collectEmail.html:15
 msgid "Get news and updates from BitPay"
-msgstr "Recibir noticias y actualizaciones de BitPay"
+msgstr "Recibir noticias y actualizaciones de ObsidianCVT"
 
 #: www/views/onboarding/welcome.html:8
 msgid "Get started"
@@ -1134,7 +1134,7 @@ msgstr "Ayuda & Soporte"
 
 #: src/js/controllers/tab-settings.js:53
 msgid "Help and support information is available at the BitPay Help Center website."
-msgstr "La ayuda y soporte esta disponible en la página BitPay Help Center."
+msgstr "La ayuda y soporte esta disponible en la página ObsidianCVT Help Center."
 
 #: www/views/addresses.html:24
 msgid "Hide"
@@ -1166,7 +1166,7 @@ msgstr "¿Cómo podríamos mejorar tu experiencia?"
 
 #: www/views/feedback/rateCard.html:3
 msgid "How do you like BitPay?"
-msgstr "¿Te gusta BitPay?"
+msgstr "¿Te gusta ObsidianCVT?"
 
 #: src/js/controllers/feedback/rateCard.js:28
 msgid "I don't like it"
@@ -1221,7 +1221,7 @@ msgstr "Si se habilita, las billeteras podrán gastar los fondos sin confirmar. 
 
 #: src/js/controllers/onboarding/backupRequest.js:11
 msgid "If this device is replaced or this app is deleted, neither you nor BitPay can recover your funds without a backup."
-msgstr "Si pierdes este dispositivo o esta aplicación es eliminada, ni tú ni BitPay podrán recuperar el dinero."
+msgstr "Si pierdes este dispositivo o esta aplicación es eliminada, ni tú ni ObsidianCVT podrán recuperar el dinero."
 
 #: www/views/feedback/complete.html:19
 msgid "If you have additional feedback, please let us know by tapping the \"Send feedback\" option in the Settings tab."
@@ -1500,7 +1500,7 @@ msgstr "Sin billetera"
 
 #: www/views/onboarding/backupRequest.html:5
 msgid "No backup, no bitcoin."
-msgstr "Sin copia de seguridad, no hay bitcoins."
+msgstr "Sin copia de seguridad, no hay blackcoins."
 
 #: www/views/addressbook.html:19
 msgid "No contacts yet"
@@ -1548,7 +1548,7 @@ msgstr "No hay suficientes fondos para la comisión"
 
 #: www/views/onboarding/tour.html:45
 msgid "Not even BitPay can access it."
-msgstr "Ni siquiera BitPay puede acceder a ellos."
+msgstr "Ni siquiera ObsidianCVT puede acceder a ellos."
 
 #: src/js/controllers/paperWallet.js:47
 msgid "Not funds found"
@@ -1565,7 +1565,7 @@ msgstr "Nota"
 
 #: www/views/modals/wallets.html:25
 msgid "Notice: only 1-1 (single signature) wallets can be used for sell bitcoin"
-msgstr "Aviso: solo billeteras 1-1 (única firma) pueden ser utilizadas para vender bitcoin"
+msgstr "Aviso: solo billeteras 1-1 (única firma) pueden ser utilizadas para vender blackcoin"
 
 #: www/views/preferencesNotifications.html:10
 #: www/views/preferencesNotifications.html:3
@@ -1646,7 +1646,7 @@ msgstr "Abrir billetera"
 
 #: www/views/bitpayCardIntro.html:34
 msgid "Order the BitPay Card"
-msgstr "Solicitar tarjeta de BitPay"
+msgstr "Solicitar tarjeta de ObsidianCVT"
 
 #: www/views/join.html:100
 #: www/views/join.html:93
@@ -1673,7 +1673,7 @@ msgstr "Pegar copia de seguridad en texto plano"
 
 #: www/views/bitpayCardIntro.html:28
 msgid "Pay 0% fees to turn bitcoin into dollars."
-msgstr "Paga 0% de comisión para transformar tus bitcoin en dólares."
+msgstr "Paga 0% de comisión para transformar tus blackcoin en dólares."
 
 #: www/views/modals/paypro.html:18
 msgid "Pay To"
@@ -1783,7 +1783,7 @@ msgstr "Escoje las palabras en el orden correcto."
 
 #: src/js/services/bwcError.js:101
 msgid "Please upgrade Copay to perform this action"
-msgstr "Por favor actualiza Copay para realizar esta acción"
+msgstr "Por favor actualiza Payblk para realizar esta acción"
 
 #: src/js/controllers/confirm.js:465
 msgid "Please, enter the code below"
@@ -2027,7 +2027,7 @@ msgstr "Buscar transacciones"
 
 #: www/views/tab-send.html:26
 msgid "Search or enter bitcoin address"
-msgstr "Buscar o introducir dirección bitcoin"
+msgstr "Buscar o introducir dirección blackcoin"
 
 #: www/views/modals/search.html:16
 msgid "Search transactions"
@@ -2055,7 +2055,7 @@ msgstr "Certificado autofirmado"
 
 #: src/js/services/onGoingProcess.js:42
 msgid "Selling Bitcoin..."
-msgstr "Vendiendo Bitcoins..."
+msgstr "Vendiendo Blackcoins..."
 
 #: www/views/feedback/send.html:13
 #: www/views/feedback/send.html:43
@@ -2079,7 +2079,7 @@ msgstr "Enviar las direcciones por email"
 
 #: www/views/includes/confirm-tx.html:3
 msgid "Send bitcoin"
-msgstr "Enviar bitcoin"
+msgstr "Enviar blackcoin"
 
 #: www/views/preferencesLogs.html:15
 #: www/views/tab-export-file.html:80
@@ -2165,7 +2165,7 @@ msgstr "Compartir"
 
 #: www/views/feedback/complete.html:5
 msgid "Share BitPay"
-msgstr "Compartir BitPay"
+msgstr "Compartir ObsidianCVT"
 
 #: www/views/copayers.html:36
 msgid "Share invitation"
@@ -2178,7 +2178,7 @@ msgstr "Comparte la pasión invitando a tus amigos."
 
 #: www/views/copayers.html:17
 msgid "Share this invitation with your copayers"
-msgstr "Compartir esta invitación con sus copayers"
+msgstr "Compartir esta invitación con sus payblkers"
 
 #: www/views/tab-import-hardware.html:24
 msgid "Shared Wallet"
@@ -2196,7 +2196,7 @@ msgstr "Mostrar opciones avanzadas"
 
 #: www/views/tab-send.html:17
 msgid "Show bitcoin address"
-msgstr "Mostrar dirección bitcoin"
+msgstr "Mostrar dirección blackcoin"
 
 #: www/views/tab-send.html:52
 msgid "Show more"
@@ -2246,7 +2246,7 @@ msgstr "Se necesita la contraseña para pagos"
 
 #: www/views/tab-send.html:11
 msgid "Start sending bitcoin"
-msgstr "Empezar a enviar bitcoin"
+msgstr "Empezar a enviar blackcoin"
 
 #: src/js/routes.js:112
 msgid "Starting..."
@@ -2274,7 +2274,7 @@ msgstr "ESTA ACCIÓN NO SE PUEDE REVERTIR"
 
 #: www/views/onboarding/welcome.html:5
 msgid "Take control of your money,<br>get started with bitcoin."
-msgstr "Toma control de tu dinero,<br>comienza a utilizar bitcoin."
+msgstr "Toma control de tu dinero,<br>comienza a utilizar blackcoin."
 
 #: www/views/walletDetails.html:145
 #: www/views/walletDetails.html:65
@@ -2323,7 +2323,7 @@ msgstr "La aplicación Ledger de Chrome no esta instalada"
 
 #: www/views/modals/wallet-balance.html:55
 msgid "The amount of bitcoin immediately spendable from this wallet."
-msgstr "Total de bitcoins disponibles en esta billetera para su uso inmediato."
+msgstr "Total de blackcoins disponibles en esta billetera para su uso inmediato."
 
 #: www/views/modals/wallet-balance.html:93
 msgid "The amount of bitcoin stored in this wallet that is allocated as inputs to your pending transaction proposals. The amount is determined using unspent transaction outputs associated with this wallet and may be more than the actual amounts associated with your pending transaction proposals."
@@ -2331,7 +2331,7 @@ msgstr "La cantidad de bitcoins almacenados en esta billetera que se utilizan co
 
 #: www/views/modals/wallet-balance.html:74
 msgid "The amount of bitcoin stored in this wallet with less than 1 blockchain confirmation."
-msgstr "La cantidad de bitcoins almacenados en esta billetera que poseen menos de 1 confirmación en \"Blockchain\"."
+msgstr "La cantidad de blackcoins almacenados en esta billetera que poseen menos de 1 confirmación en \"Blockchain\"."
 
 #: www/views/tab-import-phrase.html:5
 msgid "The derivation path"
@@ -2351,7 +2351,7 @@ msgstr "Se ha alcanzado el número máximo de direcciones consecutivas sin utili
 
 #: src/js/controllers/onboarding/terms.js:21
 msgid "The official English Terms of Service are available on the BitPay website."
-msgstr "Los términos y condiciones oficiales en inglés se encuentran disponibles en la web de BitPay."
+msgstr "Los términos y condiciones oficiales en inglés se encuentran disponibles en la web de ObsidianCVT."
 
 #: www/views/tab-import-phrase.html:4
 msgid "The password of the recovery phrase (if set)"
@@ -2386,7 +2386,7 @@ msgstr "La propuesta de gasto no esta pendiente"
 
 #: www/views/modals/wallet-balance.html:36
 msgid "The total amount of bitcoin stored in this wallet."
-msgstr "El total de bitcoins almacenados en esta billetera."
+msgstr "El total de blackcoins almacenados en esta billetera."
 
 #: www/views/preferencesHistory.html:26
 msgid "The transaction history and every new incoming transaction are cached in the app. This feature clean this up and synchronizes again from the server"
@@ -2425,7 +2425,7 @@ msgstr "¡Esta aplicación es fantástica!"
 
 #: www/views/onboarding/tour.html:42
 msgid "This app stores your bitcoin with cutting-edge security."
-msgstr "Esta aplicación almacena tus bitcoins con seguridad avanzada."
+msgstr "Esta aplicación almacena tus blackcoins con seguridad avanzada."
 
 #: src/js/controllers/confirm.js:450
 msgid "This bitcoin payment request has expired."
@@ -2462,11 +2462,11 @@ msgstr "Para"
 
 #: www/views/tab-send.html:12
 msgid "To get started, buy bitcoin or share your address. You can receive bitcoin from any wallet or service."
-msgstr "Para empezar, compra bitcoin o comparte tu dirección. Puedes recibir bitcoin desde cualquier billetera o servicio."
+msgstr "Para empezar, compra blackcoin o comparte tu dirección. Puedes recibir blackcoin desde cualquier billetera o servicio."
 
 #: www/views/tab-send.html:13
 msgid "To get started, you'll need to create a bitcoin wallet and get some bitcoin."
-msgstr "Para empezar, necesitarás crear una billetera y obtener bitcoins."
+msgstr "Para empezar, necesitarás crear una billetera y obtener blackcoins."
 
 #: www/views/modals/wallet-balance.html:23
 msgid "Total"
@@ -2478,7 +2478,7 @@ msgstr "Balance Total Bloqueado"
 
 #: www/views/tab-create-shared.html:33
 msgid "Total number of copayers"
-msgstr "Número total de copayers"
+msgstr "Número total de payblkers"
 
 #: src/js/services/fingerprintService.js:63
 #: src/js/services/fingerprintService.js:68
@@ -2523,7 +2523,7 @@ msgstr "Traductores"
 
 #: www/views/bitpayCardIntro.html:18
 msgid "Turn bitcoin into dollars, swipe anywhere Visa<sup>&reg;</sup> is accepted."
-msgstr "Convierta Bitcoins en Dólares, use Visa<sup>&reg;</sup>."
+msgstr "Convierta Blackcoins en Dólares, use Visa<sup>&reg;</sup>."
 
 #: www/views/tab-import-phrase.html:17
 msgid "Type the Recovery Phrase (usually 12 words)"
@@ -2636,7 +2636,7 @@ msgstr "Esperando a Trezor..."
 
 #: www/views/copayers.html:48
 msgid "Waiting for copayers"
-msgstr "Esperando a los demás copayers"
+msgstr "Esperando a los demás payblkers"
 
 #: www/views/copayers.html:53
 msgid "Waiting..."
@@ -2721,7 +2721,7 @@ msgstr "La billetera ya existe"
 
 #: src/js/services/profileService.js:529
 msgid "Wallet already in Copay"
-msgstr "La billetera ya existe en Copay"
+msgstr "La billetera ya existe en Payblk"
 
 #: www/views/includes/walletActivity.html:6
 msgid "Wallet created"
@@ -2810,11 +2810,11 @@ msgstr "Se confirmará en la siguiente pantalla."
 
 #: src/js/controllers/feedback/send.js:72
 msgid "We're always looking for ways to improve BitPay."
-msgstr "Siempre estamos buscando maneras de mejorar BitPay."
+msgstr "Siempre estamos buscando maneras de mejorar ObsidianCVT."
 
 #: src/js/controllers/feedback/send.js:76
 msgid "We're always looking for ways to improve BitPay. How could we improve your experience?"
-msgstr "Siempre estamos buscando maneras de mejorar BitPay. ¿Cómo podríamos mejorar tu experiencia?"
+msgstr "Siempre estamos buscando maneras de mejorar ObsidianCVT. ¿Cómo podríamos mejorar tu experiencia?"
 
 #: www/views/preferencesLanguage.html:16
 #: www/views/translators.html:23
@@ -2839,7 +2839,7 @@ msgstr "¿Por qué?"
 
 #: www/views/feedback/rateApp.html:10
 msgid "Would you be willing to rate BitPay in the app store?"
-msgstr "¿Estaría usted dispuesto a opinar sobre BitPay en la app store?"
+msgstr "¿Estaría usted dispuesto a opinar sobre ObsidianCVT en la app store?"
 
 #: src/js/controllers/bitpayCardIntro.js:31
 msgid "Would you like to add this account ({{email}}) to your wallet?"
@@ -2877,7 +2877,7 @@ msgstr "Se pueden hacer contribuciones al registrarse en nuestro proyecto de tra
 
 #: www/views/tab-scan.html:16
 msgid "You can scan bitcoin addresses, payment requests, paper wallets, and more."
-msgstr "Puedes escanear direcciones bitcoin, solicitudes de pago, billeteras de papel y más."
+msgstr "Puedes escanear direcciones blackcoin, solicitudes de pago, billeteras de papel y más."
 
 #: src/js/controllers/preferencesAbout.js:14
 msgid "You can see the latest developments and contribute to this open source app by visiting our project on GitHub."
@@ -2885,7 +2885,7 @@ msgstr "Puede ver las últimas novedades y contribuir a nuestra aplicación de c
 
 #: www/views/onboarding/tour.html:14
 msgid "You can spend bitcoin at millions of websites and stores worldwide."
-msgstr "Puedes utilizar bitcoin en millones de páginas web y tiendas en todo el mundo."
+msgstr "Puedes utilizar blackcoin en millones de páginas web y tiendas en todo el mundo."
 
 #: www/views/backup.html:12
 msgid "You can still export it from Advanced &gt; Export."
@@ -2897,7 +2897,7 @@ msgstr "Puedes cambiarlo por otras monedas como Dólares, Euros o Libras."
 
 #: www/views/onboarding/tour.html:41
 msgid "You control your bitcoin."
-msgstr "Controlas tus bitcoins."
+msgstr "Controlas tus blackcoins."
 
 #: www/views/preferencesNotifications.html:30
 msgid "You'll receive email notifications about payments sent and received from your wallets."
@@ -2905,11 +2905,11 @@ msgstr "Recibirás notificaciones por correo electrónico acerca de pagos enviad
 
 #: www/views/includes/confirmBackupPopup.html:6
 msgid "Your bitcoin wallet is backed up!"
-msgstr "¡Su billetera bitcoin está resguardada!"
+msgstr "¡Su billetera blackcoin está resguardada!"
 
 #: www/views/tab-home.html:26
 msgid "Your bitcoin wallet is ready!"
-msgstr "¡Su billetera bitcoin está lista!"
+msgstr "¡Su billetera blackcoin está lista!"
 
 #: www/views/feedback/send.html:42
 msgid "Your ideas, feedback, or comments"
@@ -2966,7 +2966,7 @@ msgstr "preparando..."
 
 #: www/views/preferencesBwsUrl.html:19
 msgid "{{appName}} depends on Bitcore Wallet Service (BWS) for blockchain information, networking and Copayer synchronization. The default configuration points to https://bws.bitpay.com (BitPay's public BWS instance)."
-msgstr "{{appName}} depende de Bitcore Wallet Service (BWS) para obtener información sobre blockchain y sincronización del Copayer. La configuración por defecto apunta a https://bws.bitpay.com (instancia pública de BitPay)."
+msgstr "{{appName}} depende de Bitcore Wallet Service (BWS) para obtener información sobre blockchain y sincronización del Payblker."
 
 #: www/views/includes/confirm-tx.html:23
 msgid "{{feeRateStr}} of the transaction"
@@ -2974,7 +2974,7 @@ msgstr "{{feeRateStr}} de la transacción"
 
 #: src/js/controllers/confirm.js:193
 msgid "{{fee}} will be deducted for bitcoin networking fees."
-msgstr "{{fee}} se descontará por comisión de la red bitcoin."
+msgstr "{{fee}} se descontará por comisión de la red blackcoin."
 
 #: www/views/walletDetails.html:209
 msgid "{{updatingTxHistoryProgress}} transactions downloaded"

@@ -58,7 +58,7 @@ msgstr "Μια πρόταση πληρωμής μπορεί να διαγραφ�
 
 #: www/views/includes/terms.html
 msgid "<b>IF YOU LOSE ACCESS TO YOUR COPAY WALLET OR YOUR ENCRYPTED PRIVATE KEYS AND YOU HAVE NOT SEPARATELY STORED A BACKUP OF YOUR WALLET AND CORRESPONDING PASSWORD, YOU ACKNOWLEDGE AND AGREE THAT ANY BITCOIN YOU HAVE ASSOCIATED WITH THAT COPAY WALLET WILL BECOME INACCESSIBLE.</b>"
-msgstr "<b>ΕΑΝ ΧΑΣΕΤΕ ΤΗΝ ΠΡΟΣΒΑΣΗ ΝΑ ΣΑΣ ΣΤΟ ΠΟΡΤΟΦΌΛΙ COPAY Ή ΣΤΑ ΚΡΥΠΤΟΓΡΑΦΗΜΕΝΑ ΙΔΙΩΤΙΚΑ ΣΑΣ ΚΛΕΙΔΙΑ ΚΑΙ ΔΕΝ ΑΠΟΘΗΚΕΥΣΑΤΕ ΧΩΡΙΣΤΆ ΕΝΑ ΑΝΤΙΓΡΑΦΟ ΑΣΦΑΛΕΙΑΣ ΤΟΥ ΠΟΡΤΟΦΟΛΙΟΥ ΚΑΙ ΤΟΥ ΑΝΤΙΣΤΟΙΧΟΥ ΚΩΔΙΚΟΥ ΠΡΌΣΒΑΣΗΣ, ΑΠΟΔΕΧΕΣΤΕ ΚΑΙ ΣΥΜΦΩΝΕΙΤΕ ΟΤΙ ΟΠΟΙΑΔΗΠΟΤΕ ΠΟΣΟΤΗΤΑ BITCOIN ΠΟΥ ΕΧΕΤΕ ΣΥΣΧΕΤΙΣΕΙ ΜΕ ΤΟ ΠΟΡΤΟΦΟΛΙ ΤΟΥ COPAY ΘΑ ΓΙΝΟΥΝ ΑΠΡΟΣΠΕΛΑΣΤΑ.</b>"
+msgstr "<b>ΕΑΝ ΧΑΣΕΤΕ ΤΗΝ ΠΡΟΣΒΑΣΗ ΝΑ ΣΑΣ ΣΤΟ ΠΟΡΤΟΦΌΛΙ COPAY Ή ΣΤΑ ΚΡΥΠΤΟΓΡΑΦΗΜΕΝΑ ΙΔΙΩΤΙΚΑ ΣΑΣ ΚΛΕΙΔΙΑ ΚΑΙ ΔΕΝ ΑΠΟΘΗΚΕΥΣΑΤΕ ΧΩΡΙΣΤΆ ΕΝΑ ΑΝΤΙΓΡΑΦΟ ΑΣΦΑΛΕΙΑΣ ΤΟΥ ΠΟΡΤΟΦΟΛΙΟΥ ΚΑΙ ΤΟΥ ΑΝΤΙΣΤΟΙΧΟΥ ΚΩΔΙΚΟΥ ΠΡΌΣΒΑΣΗΣ, ΑΠΟΔΕΧΕΣΤΕ ΚΑΙ ΣΥΜΦΩΝΕΙΤΕ ΟΤΙ ΟΠΟΙΑΔΗΠΟΤΕ ΠΟΣΟΤΗΤΑ BLACKCOIN ΠΟΥ ΕΧΕΤΕ ΣΥΣΧΕΤΙΣΕΙ ΜΕ ΤΟ ΠΟΡΤΟΦΟΛΙ ΤΟΥ COPAY ΘΑ ΓΙΝΟΥΝ ΑΠΡΟΣΠΕΛΑΣΤΑ.</b>"
 
 #: www/views/backup.html
 msgid "<b>OR</b> 1 wallet export file and the remaining quorum of wallet recovery phrases (e.g. in a 3-5 wallet: 1 wallet export file + 2 wallet recovery phrases of any of the other copayers)."
@@ -74,11 +74,11 @@ msgstr ""
 
 #: www/views/disclaimer.html
 msgid "A multisignature bitcoin wallet"
-msgstr "Ένα πορτοφόλι bitcoin με δυνατότητα πολλαπλών υπογραφών"
+msgstr "Ένα πορτοφόλι blackcoin με δυνατότητα πολλαπλών υπογραφών"
 
 #: www/views/preferencesGlobal.html
 msgid "About Copay"
-msgstr "Σχετικά με το Copay"
+msgstr "Σχετικά με το Payblk"
 
 #: www/views/modals/txp-details.html
 #: src/js/services/confirmDialog.js
@@ -152,7 +152,7 @@ msgstr "Ψευδώνυμο για <i>{{index.walletName}}</i>"
 #: www/views/preferencesLanguage.html
 #: www/views/translators.html
 msgid "All contributions to Copay's translation are welcome. Sign up at crowdin.com and join the Copay project at"
-msgstr "Όλες οι εισηγήσεις στην μετάφραση του Copay είναι ευπρόσδεκτες. Εγγραφείτε στο crowdin.com για να συμμετάσχετε στο έργο Copay"
+msgstr "Όλες οι εισηγήσεις στην μετάφραση του Payblk είναι ευπρόσδεκτες. Εγγραφείτε στο crowdin.com για να συμμετάσχετε στο έργο Payblk"
 
 #: www/views/includes/terms.html
 msgid "All transaction requests are irreversible."
@@ -389,11 +389,11 @@ msgstr "Συνεχίστε"
 
 #: src/js/services/bwcError.js
 msgid "Copayer already in this wallet"
-msgstr "Copayers ήδη σε αυτό το πορτοφόλι"
+msgstr "Payblkers ήδη σε αυτό το πορτοφόλι"
 
 #: src/js/services/bwcError.js
 msgid "Copayer already voted on this spend proposal"
-msgstr "Copayer που έχουν ήδη ψηφίσει αυτή την πρόταση"
+msgstr "Payblker που έχουν ήδη ψηφίσει αυτή την πρόταση"
 
 #: src/js/services/bwcError.js
 msgid "Copayer data mismatch"
@@ -401,7 +401,7 @@ msgstr "Ασυμφωνία δεδομένων του copayer"
 
 #: www/views/preferencesInformation.html
 msgid "Copayers"
-msgstr "Μέλη του πορτοφολιού Copay"
+msgstr "Μέλη του πορτοφολιού Payblk"
 
 #: src/js/controllers/copayers.js
 #: src/js/controllers/export.js
@@ -894,7 +894,7 @@ msgstr ""
 
 #: src/js/controllers/copayers.js
 msgid "Invitation to share a Copay Wallet"
-msgstr "Πρόσκληση για τον διαμοιρασμό ενός πορτοφολιού Copay"
+msgstr "Πρόσκληση για τον διαμοιρασμό ενός πορτοφολιού Payblk"
 
 #: www/views/translators.html
 msgid "Italian"
@@ -915,7 +915,7 @@ msgstr "Συμμετοχή"
 
 #: src/js/controllers/copayers.js
 msgid "Join my Copay wallet. Here is the invitation code: {{secret}} You can download Copay for your phone or desktop at https://copay.io"
-msgstr "Συμμετάσχετε στο πορτοφόλι μου Copay. Εδώ είναι ο κωδικός πρόσκλησης: {{secret}} μπορείτε να κατεβάσετε το Copay για το τηλέφωνο σας ή τον υπολογιστή σας στο https://copay.io"
+msgstr "Συμμετάσχετε στο πορτοφόλι μου Payblk. Εδώ είναι ο κωδικός πρόσκλησης: {{secret}} "
 
 #: www/views/add.html
 msgid "Join shared wallet"
@@ -1193,11 +1193,11 @@ msgstr "Πρόταση Πληρωμής Απορρίφθηκε"
 
 #: src/js/services/notificationsService.js
 msgid "Payment Proposal Rejected by Copayer"
-msgstr "Το Copayer Απέρριψε την Πρόταση Πληρωμής"
+msgstr "Το Payblker Απέρριψε την Πρόταση Πληρωμής"
 
 #: src/js/services/notificationsService.js
 msgid "Payment Proposal Signed by Copayer"
-msgstr "Η Πρόταση Πληρωμής Υπογράφηκε από το Copayer"
+msgstr "Η Πρόταση Πληρωμής Υπογράφηκε από το Payblker"
 
 #: www/views/walletHome.html
 msgid "Payment Proposals"
@@ -1262,7 +1262,7 @@ msgstr ""
 
 #: src/js/services/bwcError.js
 msgid "Please upgrade Copay to perform this action"
-msgstr "Παρακαλώ αναβαθμίστε το Copay για να εκτελέσετε αυτήν την ενέργεια"
+msgstr "Παρακαλώ αναβαθμίστε το Payblk για να εκτελέσετε αυτήν την ενέργεια"
 
 #: www/views/uri.html
 msgid "Please wait to be redirected..."
@@ -1302,7 +1302,7 @@ msgstr "Το ιδιωτικό κλειδί είναι κρυπτογραφημέ
 
 #: www/views/preferencesGlobal.html
 msgid "Push notifications for Copay are currently disabled. Enable them in the Settings app."
-msgstr "Οι ειδοποιήσεις push για Copay είναι απενεργοποιημένη αυτήν τη στιγμή. Ενεργοποιήστε τες στις Ρυθμίσεις της εφαρμογής."
+msgstr "Οι ειδοποιήσεις push για Payblk είναι απενεργοποιημένη αυτήν τη στιγμή. Ενεργοποιήστε τες στις Ρυθμίσεις της εφαρμογής."
 
 #: www/views/export.html
 #: www/views/modals/customized-amount.html
@@ -1667,7 +1667,7 @@ msgstr ""
 
 #: www/views/includes/terms.html
 msgid "The software does not constitute an account where BitPay or other third parties serve as financial intermediaries or custodians of your bitcoin."
-msgstr "Το λογισμικό δεν αποτελεί ένα λογαριασμό όπου το BitPay ή άλλα τρίτα μέρη χρησιμεύουν ως ενδιάμεσοι χρηματοπιστωτικοί οργανισμοί ή θεματοφύλακες των bitcoin σας."
+msgstr "Το λογισμικό δεν αποτελεί ένα λογαριασμό όπου το BitPay ή άλλα τρίτα μέρη χρησιμεύουν ως ενδιάμεσοι χρηματοπιστωτικοί οργανισμοί ή θεματοφύλακες των blackcoin σας."
 
 #: www/views/includes/terms.html
 msgid "The software you are about to use functions as a free, open source, and multi-signature digital wallet."
@@ -1821,7 +1821,7 @@ msgstr ""
 
 #: www/views/copayers.html
 msgid "Waiting for copayers"
-msgstr "Αναμονή για copayers"
+msgstr "Αναμονή για payblkers"
 
 #: src/js/services/onGoingProcess.js
 msgid "Waiting for Ledger..."
