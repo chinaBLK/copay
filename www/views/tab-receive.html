@@ -39,7 +39,7 @@
         <div class="row border-top">
           <div class="col col-90 center-block bit-address text-center">
             <div class="item item-icon-left">
-              <i class="icon icon-svg receive-tab-bitcoin-icon"><img src="img/icon-bitcoin-symbol.svg"></i>
+              <i class="icon icon-svg receive-tab-bitcoin-icon">BLK</i>
               <span class="bit-address-gen-address" ng-if="!generatingAddress" translate>address not yet available</span>
             </div>
           </div>
@@ -68,7 +68,7 @@
         <div id="bit-address" class="row border-top" ng-click="showAddresses()">
           <div class="center-block bit-address text-center" ng-repeat="wallet in wallets track by $index" ng-class="walletPosition($index)">
             <div class="item item-icon-left item-icon-right">
-              <i class="icon icon-svg receive-tab-bitcoin-icon"><img src="img/icon-bitcoin-symbol.svg"></i>
+              <i class="icon icon-svg receive-tab-bitcoin-icon">BLK</i>
               <span class="bit-address-gen-address" ng-if="generatingAddress">...</span>
               <span class="bit-address-gen-address" ng-if="!generatingAddress" class="ellipsis">{{walletAddrs[wallet.id]}}</span>
               <i class="icon ion-ios-arrow-right"></i>

@@ -1850,3 +1850,19 @@ msgstr "To get started, share your address. You can receive blackcoin from any w
 #: www/views/tab-send.html:17
 msgid "Show bitcoin address"
 msgstr "Show blackcoin address"
+
+#: www/views/onboarding/tour.html:41
+msgid "You control your bitcoin."
+msgstr "You control your blackcoin."
+
+#: www/views/onboarding/tour.html:42
+msgid "This app stores your bitcoin with cutting-edge security."
+msgstr "This app stores your blackcoin with cutting-edge security."
+
+#: www/views/onboarding/disclaimer.html:15
+msgid "Bitcoin is different &ndash; it cannot be safely held with a bank or web service."
+msgstr "Blackcoin is different &ndash; it cannot be safely held with a bank or web service."
+
+#: www/views/onboarding/disclaimer.html:21
+msgid "I understand that if this app is moved to another device or deleted, my bitcoin can only be recovered with the backup phrase."
+msgstr "I understand that if this app is moved to another device or deleted, my blackcoin can only be recovered with the backup phrase."
