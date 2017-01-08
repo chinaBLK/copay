@@ -1816,3 +1816,37 @@ msgstr "Blackcoin is a currency."
 #: www/views/onboarding/tour.html:13
 msgid "Bitcoin is secure,<br>digital money."
 msgstr "Blackcoin is secure,<br>digital money."
+
+#: www/views/onboarding/backupRequest.html:5
+msgid "No backup, no bitcoin."
+msgstr "No backup, no blackcoin."
+
+#: www/views/onboarding/tour.html:45
+msgid "Not even BitPay can access it."
+msgstr "Not even Obsidian Cryptovault Technologies, LLC can access it"
+
+#: www/views/onboarding/tour.html:46
+#: www/views/tab-home.html:66
+#: www/views/tab-send.html:16
+msgid "Create bitcoin wallet"
+msgstr "Create blackcoin wallet"
+
+#: src/js/controllers/onboarding/backupRequest.js:11
+msgid "If this device is replaced or this app is deleted, neither you nor BitPay can recover your funds without a backup."
+msgstr "If this device is replaced or this app is deleted, neither you nor Obsidian Cryptovault Technologies, LLC can recover your funds without a backup."
+
+#: www/views/tab-scan.html:16
+msgid "You can scan bitcoin addresses, payment requests, paper wallets, and more."
+msgstr "You can scan blackcoin addresses, payment requests, paper wallets, and more."
+
+#: www/views/tab-send.html:11
+msgid "Start sending bitcoin"
+msgstr "Start sending blackcoin"
+
+#: www/views/tab-send.html:12
+msgid "To get started, buy bitcoin or share your address. You can receive bitcoin from any wallet or service."
+msgstr "To get started, share your address. You can receive blackcoin from any wallet or service."
+
+#: www/views/tab-send.html:17
+msgid "Show bitcoin address"
+msgstr "Show blackcoin address"
