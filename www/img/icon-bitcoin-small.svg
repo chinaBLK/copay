@@ -1,16 +1,121 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="12px" height="16px" viewBox="0 0 12 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
-    <title>Bitcoin_Symbol</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.8">
-        <g id="Address-(Bitcoin)" transform="translate(-11.000000, -12.000000)" fill="#5D5D5D">
-            <g id="Items/Bitcoin-Address">
-                <g id="Items/Bitcoin-Address-Copy">
-                    <path d="M19.6342548,15.1610219 L20.1628282,12.9767055 L18.8173687,12.6561808 L18.3048127,14.7930121 C17.9484261,14.7099131 17.5880351,14.6268141 17.2316485,14.5555864 L17.7442045,12.4187551 L16.3827276,12.0982304 L15.8541542,14.2825468 C15.5658415,14.2152762 15.2735244,14.163834 14.9852116,14.0965634 L13.1312004,13.6573258 L12.7908312,15.0700087 C12.7908312,15.0700087 13.7959215,15.2876489 13.7598824,15.3074344 C14.3044732,15.4419756 14.4085861,15.7941571 14.3885644,16.0632396 L13.7919172,18.5522523 C13.8279562,18.5680807 13.8760084,18.5680807 13.9280648,18.6036945 C13.8760084,18.5878661 13.8439736,18.5878661 13.7919172,18.5720378 L12.975031,22.0542813 C12.9069572,22.2204793 12.7347704,22.457905 12.3623664,22.374806 C12.3783838,22.3906344 11.3732935,22.1373803 11.3732935,22.1373803 L10.7366028,23.6687761 L12.4905054,24.0723998 C12.8148572,24.1554988 13.1392091,24.2227694 13.4435392,24.3098255 L12.9149658,26.5139274 L14.2604254,26.8344521 L14.7889988,24.6501356 C15.1654071,24.749063 15.5217937,24.8361191 15.8621629,24.9192181 L15.3335895,27.0877061 L16.6790491,27.4082308 L17.2076225,25.2041289 C19.5061158,25.6077526 21.2239794,25.4217691 21.9207352,23.3522085 C22.4813433,21.7020999 21.8686787,20.7603113 20.6433495,20.1390474 C21.5403225,19.9372355 22.1890262,19.3634568 22.3572087,18.1881996 C22.5774476,16.5737048 21.336101,15.7308436 19.6342548,15.1610219 Z M19.3299247,22.4737334 C18.937499,24.123842 16.1144366,23.2651524 15.2094549,23.0475122 L15.9062107,20.1192619 C16.8272098,20.3408592 19.7383678,20.7444829 19.3299247,22.4737334 L19.3299247,22.4737334 Z M19.7023287,18.1881996 C19.3459421,19.6839814 16.9953922,18.9637902 16.2305626,18.7778067 L16.8792663,16.122596 C17.6280786,16.3046223 20.078737,16.625147 19.7023287,18.1881996 L19.7023287,18.1881996 Z" id="Bitcoin_Symbol" transform="translate(16.559574, 19.753231) rotate(-13.000000) translate(-16.559574, -19.753231) "></path>
-                </g>
-            </g>
-        </g>
-    </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg2"
+   width="180"
+   height="168"
+   viewBox="0 0 180 168"
+   sodipodi:docname="icon-bitcoin-small.svg"
+   inkscape:version="0.92.0 r15299">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="1.4047619"
+     inkscape:cx="90"
+     inkscape:cy="84"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <image
+     width="180"
+     height="168"
+     preserveAspectRatio="none"
+     xlink:href="data:image/png;base64,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
+"
+     id="image10"
+     x="0"
+     y="0" />
 </svg>

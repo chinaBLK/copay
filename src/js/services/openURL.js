@@ -83,7 +83,7 @@ angular.module('copayApp.services').factory('openURLService', function($rootScop
       if (navigator.registerProtocolHandler) {
         $log.debug('Registering Browser handlers base:' + base);
         navigator.registerProtocolHandler('blackcoin', url, 'Payblk Blackcoin Handler');
-        navigator.registerProtocolHandler('web+copay', url, 'Payblk Wallet Handler');
+        navigator.registerProtocolHandler('web+payblk', url, 'Payblk Wallet Handler');
       }
     }
   };
