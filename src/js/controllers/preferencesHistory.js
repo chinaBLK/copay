@@ -5,7 +5,7 @@ angular.module('copayApp.controllers').controller('preferencesHistory',
     $scope.wallet = profileService.getWallet($stateParams.walletId);
     $scope.csvReady = false;
     $scope.isCordova = platformInfo.isCordova;
-    $scope.appName = appConfigService.nameCase;
+    $scope.appName = 'Payblk';
 
     $scope.csvHistory = function(cb) {
       var allTxs = [];

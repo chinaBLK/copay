@@ -10,7 +10,7 @@ angular.module('copayApp.controllers').controller('tabSettingsController', funct
     $scope.usePushNotifications = isCordova && !isWP;
     $scope.isCordova = isCordova;
 
-    $scope.appName = appConfigService.nameCase;
+    $scope.appName = 'Payblk';
     $scope.currentLanguageName = uxLanguage.getCurrentLanguageName();
     $scope.feeOpts = feeService.feeOpts;
     $scope.currentFeeLevel = feeService.getCurrentFeeLevel();

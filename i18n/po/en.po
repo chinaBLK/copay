@@ -1801,3 +1801,18 @@ msgstr "Your Wallet Seed"
 msgid "Your wallet seed and access to the server that coordinated the initial wallet creation. You still need {{index.m}} keys to spend."
 msgstr "Your wallet seed and access to the server that coordinated the initial wallet creation. You still need {{index.m}} keys to spend."
 
+#: www/views/tab-home.html:26
+msgid "Your bitcoin wallet is ready!"
+msgstr "Your blackcoin wallet is ready!"
+
+#: www/views/tab-settings.html:70
+msgid "Bitcoin Unit"
+msgstr "Blackcoin Unit"
+
+#: www/views/onboarding/tour.html:26
+msgid "Bitcoin is a currency."
+msgstr "Blackcoin is a currency."
+
+#: www/views/onboarding/tour.html:13
+msgid "Bitcoin is secure,<br>digital money."
+msgstr "Blackcoin is secure,<br>digital money."
