@@ -1,13 +1,13 @@
 // white on $positive
 $button-primary-bg:              $positive;
-$button-primary-text:            #fff;
+$button-primary-text:            #000;
 $button-primary-border:          transparent;
 $button-primary-active-bg:       darken($positive, 5%);
 $button-primary-active-border:   transparent;
 
 //white on translucent-white
 $button-secondary-onboarding-bg:              rgba($light-gray, 0.1); // rgba(215, 215, 215, 0.1);
-$button-secondary-onboarding-text:            #fff;
+$button-secondary-onboarding-text:            #000;
 $button-secondary-onboarding-border:          transparent;
 $button-secondary-onboarding-active-bg:       rgba($light-gray, 0.2); // rgba(215, 215, 215, 0.2);
 $button-secondary-onboarding-active-border:   transparent;
