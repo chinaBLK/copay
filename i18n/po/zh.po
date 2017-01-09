@@ -1666,8 +1666,8 @@ msgid "The request could not be understood by the server"
 msgstr "服务器不理解此请求"
 
 #: www/views/includes/terms.html
-msgid "The software does not constitute an account where BitPay or other third parties serve as financial intermediaries or custodians of your Blackcoin."
-msgstr "此软件并不构成一个账户，让 BitPay 或其他第三方作为金融中介机构或保管人以保管你的黑币。"
+msgid "The software does not constitute an account where Obsidian Cryptovault Technologies, LLC or other third parties serve as financial intermediaries or custodians of your Blackcoin."
+msgstr "此软件并不构成一个账户，让 Obsidian Cryptovault Technologies, LLC 或其他第三方作为金融中介机构或保管人以保管你的黑币。"
 
 #: www/views/includes/terms.html
 msgid "The software you are about to use functions as a free, open source, and multi-signature digital wallet."
