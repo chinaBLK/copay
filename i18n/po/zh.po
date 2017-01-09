@@ -244,19 +244,19 @@ msgid "BIP32 path for address derivation"
 msgstr "BIP32 路径的地址衍生"
 
 #: www/views/walletHome.html
-msgid "Bitcoin address"
+msgid "Blackcoin address"
 msgstr "黑币地址"
 
 #: www/views/preferencesGlobal.html
-msgid "Bitcoin Network Fee Policy"
+msgid "Blackcoin Network Fee Policy"
 msgstr "黑币网络手续费策略"
 
 #: www/views/preferencesFee.html
-msgid "Bitcoin transactions may include a fee collected by miners on the network. The higher the fee, the greater the incentive a miner has to include that transaction in a block. Current fees are determined based on network load and the selected policy."
+msgid "Blackcoin transactions may include a fee collected by miners on the network. The higher the fee, the greater the incentive a miner has to include that transaction in a block. Current fees are determined based on network load and the selected policy."
 msgstr "黑币交易可能包括网络矿工所收取的费用。收费越高，交易数据块包含矿工的奖励也越大。当前收费的确定取决于网络负载和所选定的策略。"
 
 #: www/views/paymentUri.html
-msgid "Bitcoin URI is NOT valid!"
+msgid "Blackcoin URI is NOT valid!"
 msgstr "黑币 URI 无效！"
 
 #: www/views/modals/txp-details.html
@@ -487,7 +487,7 @@ msgid "Could not join wallet"
 msgstr "无法加入钱包"
 
 #: src/js/controllers/walletHome.js
-msgid "Could not recognize a valid Bitcoin QR Code"
+msgid "Could not recognize a valid Blackcoin QR Code"
 msgstr "无法识别有效的黑币 QR 代码"
 
 #: src/js/controllers/modals/txpDetails.js
@@ -1012,7 +1012,7 @@ msgid "Multiple recipients"
 msgstr "多个接收者"
 
 #: www/views/walletHome.html
-msgid "My Bitcoin address"
+msgid "My Blackcoin address"
 msgstr "我的黑币地址"
 
 #: www/views/modals/addressbook.html
@@ -1467,7 +1467,7 @@ msgid "Send addresses by email"
 msgstr "通过电邮发送地址"
 
 #: www/views/includes/confirm-tx.html
-msgid "Send bitcoin"
+msgid "Send Blackcoin"
 msgstr "发送黑币"
 
 #: www/views/export.html
